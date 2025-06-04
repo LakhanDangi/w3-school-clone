@@ -8,7 +8,7 @@ This is a simple HTML and CSS clone of the W3Schools homepage.
 - Pop-up sign-in box
 
 ## How to Use
-Just open the `index.html` file in any web browser.
+Just open the index.html file in your browser. Make sure style.css is in the same folder so the design loads correctly.
 
 ## Credits
 Built using HTML, CSS. CSS animation support provided with ChatGPT help.
